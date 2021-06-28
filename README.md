@@ -43,3 +43,7 @@ python main.py your_htlm_file
 
 </html>
 ```
+
+## The Cake
+
+![Cake](img/cake.png)
