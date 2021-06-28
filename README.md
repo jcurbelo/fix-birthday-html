@@ -1,6 +1,6 @@
 # fix-birthday-html
 
-Simple script that fixes small typo (htlm) on my 30th birthay cake 🎂 and produces a readble HTML code.
+Simple script that fixes small typo (htlm) on my 30th birthday cake 🎂 and produces a readable HTML code.
 
 ## How to use it
 
